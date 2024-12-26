@@ -12,7 +12,7 @@ const userInfoContainer = document.querySelector(".user-info-container");
 const errImg = document.querySelector(".not-found");
 
 let currentTAb = userTab;
-const API_KEY = "d1845658f92b31c64bd94f06f7188c9c";
+const API_KEY = "3005a183f80eeb5f97df108763fcb2b4";
 currentTAb.classList.add("current-tab");
 getfromSessionStorage();
 
